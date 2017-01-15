@@ -4,7 +4,7 @@
 http://stackoverflow.com/questions/5503489/python-selenium-example-doesnt-work-says-no-module-named-keys
 http://seleniumhq.github.io/selenium/docs/api/py/index.html
 - load the page at the given URL
-- opena new Firefox browser
+- open a new Firefox browser
 '''
 
 from selenium import webdriver
