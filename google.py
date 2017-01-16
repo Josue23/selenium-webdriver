@@ -32,5 +32,5 @@ try:
     # You should see "cheese! - Google Search"
     print (driver.title)
 
-# finally:
-    # driver.quit()
+finally:
+    driver.quit()

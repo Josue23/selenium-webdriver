@@ -236,3 +236,404 @@
 
 ###!!! [Child][MessageChannel] Error: (msgtype=0x9C0001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
 
+1484440494231	geckodriver	INFO	Listening on 127.0.0.1:35139
+1484440494273	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.thci0AuM50N2
+1484440494274	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484440494297	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45569
+1484440497107	Marionette	INFO	Listening on port 45569
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1484440652347	geckodriver	INFO	Listening on 127.0.0.1:50351
+1484440653361	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4enHXjeaNkwD
+1484440653365	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484440653370	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35397
+1484440655661	Marionette	INFO	Listening on port 35397
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+
+(firefox:25049): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25049): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25049): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25049): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25049): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25049): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25049): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 25107] WARNING: pipe error (14): Conexão fechada pela outra ponta: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 25107] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25107] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1484440863300	geckodriver	INFO	Listening on 127.0.0.1:59115
+1484440864303	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mxNeikotMEkP
+1484440864309	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484440864314	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43613
+1484440866617	Marionette	INFO	Listening on port 43613
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[Child 25415] WARNING: pipe error (14): Conexão fechada pela outra ponta: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 25415] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 25415] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25415] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484440915596	geckodriver	INFO	Listening on 127.0.0.1:41615
+1484440916601	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lBsln9onhSiK
+1484440916621	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484440916624	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44899
+1484440919015	Marionette	INFO	Listening on port 44899
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+
+(firefox:25492): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25492): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25492): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25492): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25492): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25492): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25492): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25492): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7fe58b8e01f0' of type 'MaiAtkType139'
+1484441061436	geckodriver	INFO	Listening on 127.0.0.1:43343
+1484441062443	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lPdvodsAAcbz
+1484441062448	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484441062452	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42287
+1484441064751	Marionette	INFO	Listening on port 42287
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[Child 25771] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 25771] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25771] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484441138313	geckodriver	INFO	Listening on 127.0.0.1:50929
+1484441139321	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jmGl6YHf83Vj
+1484441139324	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484441139330	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42413
+1484441141637	Marionette	INFO	Listening on port 42413
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1484441192343	geckodriver	INFO	Listening on 127.0.0.1:49789
+1484441193352	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HP0FzYFJ8Hwq
+1484441193353	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484441193356	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40927
+1484441195659	Marionette	INFO	Listening on port 40927
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1484441245575	geckodriver	INFO	Listening on 127.0.0.1:41361
+1484441246582	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.aXv0PaOMwDNW
+1484441246586	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484441246590	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45505
+1484441248892	Marionette	INFO	Listening on port 45505
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1484511353627	geckodriver	INFO	Listening on 127.0.0.1:53817
+1484511354617	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tKqLELps8t9f
+1484511354619	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484511354641	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37391
+1484511357452	Marionette	INFO	Listening on port 37391
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2042.js, line 61: unreachable code after return statement
+[Child 4696] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 4696] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484512481946	geckodriver	INFO	Listening on 127.0.0.1:52421
+1484512482948	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gUGlLeyWyCNb
+1484512482949	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484512482952	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34695
+1484512485836	Marionette	INFO	Listening on port 34695
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2042.js, line 61: unreachable code after return statement
+[Child 5579] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5579] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484523129157	geckodriver	INFO	Listening on 127.0.0.1:37913
+1484523130141	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EuNtarM4BvRP
+1484523130143	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484523130165	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42751
+1484523133801	Marionette	INFO	Listening on port 42751
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2042.js, line 61: unreachable code after return statement
+[Child 11016] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 11016] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484523580516	geckodriver	INFO	Listening on 127.0.0.1:42581
+1484523581523	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hFZ3vs2JDmHv
+1484523581526	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484523581529	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36639
+1484523584061	Marionette	INFO	Listening on port 36639
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1484523639291	geckodriver	INFO	Listening on 127.0.0.1:41219
+1484523640299	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xaKeRmh1KOxe
+1484523640304	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484523640309	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45227
+1484523642877	Marionette	INFO	Listening on port 45227
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2042.js, line 61: unreachable code after return statement
+[Child 11521] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 11521] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484523688334	geckodriver	INFO	Listening on 127.0.0.1:41211
+1484523689338	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2zF6xZdEhCtC
+1484523689341	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484523689345	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40797
+1484523691873	Marionette	INFO	Listening on port 40797
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2042.js, line 61: unreachable code after return statement
+[Child 11641] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 11641] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484523727671	geckodriver	INFO	Listening on 127.0.0.1:57541
+1484523728680	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BqQ3SEoZGWxt
+1484523728685	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484523728688	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42349
+1484523731200	Marionette	INFO	Listening on port 42349
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2042.js, line 61: unreachable code after return statement
+[Child 11755] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 11755] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484523772840	geckodriver	INFO	Listening on 127.0.0.1:33299
+1484523772857	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GPcAIQS7WS8t
+1484523772860	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484523772866	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33137
+1484523775355	Marionette	INFO	Listening on port 33137
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2042.js, line 61: unreachable code after return statement
+[Child 11903] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 11903] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484523819298	geckodriver	INFO	Listening on 127.0.0.1:32789
+1484523820302	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.sxIzESZNfz19
+1484523820306	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484523820310	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37577
+1484523822859	Marionette	INFO	Listening on port 37577
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2042.js, line 61: unreachable code after return statement
+1484524753587	geckodriver	INFO	Listening on 127.0.0.1:36367
+1484524754593	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uM9qiYxxCiq4
+1484524754597	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484524754600	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45919
+1484524757046	Marionette	INFO	Listening on port 45919
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[Child 12630] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 12630] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484524850841	geckodriver	INFO	Listening on 127.0.0.1:59775
+1484524851846	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.J210DlV5ssg8
+1484524851850	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484524851855	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41565
+1484524854391	Marionette	INFO	Listening on port 41565
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[Child 12756] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 12756] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484525004264	geckodriver	INFO	Listening on 127.0.0.1:38829
+1484525005268	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5HuEvp3Aaat6
+1484525005273	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484525005278	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41361
+1484525007817	Marionette	INFO	Listening on port 41361
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[Child 12960] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 12960] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 12960] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484525071360	geckodriver	INFO	Listening on 127.0.0.1:55573
+1484525072367	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EWACAZVXjqls
+1484525072371	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484525072377	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45595
+1484525074912	Marionette	INFO	Listening on port 45595
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[Child 13098] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 13098] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484525208634	geckodriver	INFO	Listening on 127.0.0.1:53131
+1484525209640	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uC2IovPPizmk
+1484525209644	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484525209648	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46189
+1484525212185	Marionette	INFO	Listening on port 46189
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13234] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 13234] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 13234] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484525360909	geckodriver	INFO	Listening on 127.0.0.1:57033
+1484525361909	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LeFd8mej3hwe
+1484525361911	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484525361914	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44525
+1484525364435	Marionette	INFO	Listening on port 44525
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[Child 13398] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 13398] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1484525530344	geckodriver	INFO	Listening on 127.0.0.1:40043
+1484525531350	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4WBH7DRRRR3i
+1484525531352	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484525531357	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42905
+1484525533944	Marionette	INFO	Listening on port 42905
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2042.js, line 61: unreachable code after return statement
+[Child 13633] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 13633] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484525723369	geckodriver	INFO	Listening on 127.0.0.1:53079
+1484525724374	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.W0JYTiqCZG2i
+1484525724377	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484525724381	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35255
+1484525726917	Marionette	INFO	Listening on port 35255
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2042.js, line 61: unreachable code after return statement
+[Child 13833] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 13833] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484529280156	geckodriver	INFO	Listening on 127.0.0.1:42395
+1484529280191	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.b7Q8UBKlljF1
+1484529280196	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484529280202	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41951
+1484529283350	Marionette	INFO	Listening on port 41951
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2042.js, line 61: unreachable code after return statement
+[Child 16000] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 16000] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1484529379661	geckodriver	INFO	Listening on 127.0.0.1:46137
+1484529380663	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WMKArYjCrPfI
+1484529380667	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484529380672	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34237
+1484529383276	Marionette	INFO	Listening on port 34237
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2042.js, line 61: unreachable code after return statement
+[Child 16175] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 16175] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056

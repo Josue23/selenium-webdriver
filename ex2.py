@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding:utf-8  -*-
 '''
 http://seleniumhq.github.io/selenium/docs/api/py/index.html
 '''
@@ -9,7 +11,7 @@ class GoogleTestCase(unittest.TestCase):
 
     def setUp(self):
         self.browser = webdriver.Firefox()
-        self.addCleanup(self.browser.quit)
+        # self.addCleanup(self.browser.quit)
 
     def testPageTitle(self):
         self.browser.get('http://www.google.com')
