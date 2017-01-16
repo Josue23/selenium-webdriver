@@ -1,0 +1,22 @@
+38. Locating Elements Using CSS Selector (Cheat sheet attached)
+
+https://duckduckgo.com/
+
+search element by name
+    input[name=q]
+
+search element by class name
+    input.js-search-input
+
+
+http://semhora.com.br/
+search element by id
+    #dropDownNavMenu
+
+search element by class name
+    .eventBox
+
+search element by direct child element
+    #events_relacionados > #eventList
+
+
