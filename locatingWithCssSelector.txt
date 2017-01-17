@@ -20,3 +20,29 @@ search element by direct child element
     #events_relacionados > #eventList
 
 
+=====================================================
+=====================================================
+https://www.udemy.com/selenium-webdriver-with-python/learn/v4/t/lecture/1402506
+39. Dealing with Dynamic Elements
+
+<input type="checkbox" value="true" id="Form_74c898"/>
+
+How to locate element?
+
+1) Locate element by the part of its identifier that does not change.
+
+//input[contains(@id, 'Form_')]
+
+
+2) Use Xpath to locate the dyamic element relatively to a static element.
+
+
+
+=====================================================
+=====================================================
+Compare Xpath and CSS Selector
+
+https://www.udemy.com/selenium-webdriver-with-python/learn/v4/t/lecture/1279208
+40. Comparing Locator Strategies
+
+
