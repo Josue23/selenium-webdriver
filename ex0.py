@@ -20,3 +20,5 @@ browser = webdriver.Firefox()
 browser.get('http://seleniumhq.org/')
 
 print(browser.title)
+
+browser.quit()

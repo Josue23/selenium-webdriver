@@ -25,6 +25,7 @@ Explicit Wait
 '''
 
 from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 
 driver = webdriver.Firefox()
 # driver = webdriver.Chromium("/usr/bin/chromedriver")
@@ -35,7 +36,10 @@ driver.implicitly_wait(15)
 driver.get("https://duckduckgo.com/")
 
 # search using css selector
-searchField = driver.find_element_by_css_selector("input[name=d]")
+searchField = driver.find_element_by_css_selector("input[name=q]")
+searchField.send_keys('semhora' + Keys.RETURN)
+searchField.submit()
+
 
 driver.quit()
 
