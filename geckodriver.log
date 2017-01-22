@@ -1336,3 +1336,52 @@ JavaScript warning: https://duckduckgo.com/d2045.js, line 61: unreachable code a
 [Child 833] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
 [Child 833] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
 [Child 833] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1485049157855	geckodriver	INFO	Listening on 127.0.0.1:56181
+1485049158866	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rSJjwGT2iiMF
+1485049158868	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485049158872	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45953
+1485049161516	Marionette	INFO	Listening on port 45953
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1485049222759	geckodriver	INFO	Listening on 127.0.0.1:50675
+1485049223759	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.p3g0tQkq94YF
+1485049223764	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485049223768	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37953
+1485049226359	Marionette	INFO	Listening on port 37953
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1485049382860	geckodriver	INFO	Listening on 127.0.0.1:42837
+1485049383857	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QNExj7G9PaoV
+1485049383861	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485049383865	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45995
+1485049386392	Marionette	INFO	Listening on port 45995
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+
+(firefox:9796): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9796): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9796): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9796): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9796): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9796): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9796): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 9851] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9851] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
