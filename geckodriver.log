@@ -1385,3 +1385,15 @@ JavaScript warning: https://duckduckgo.com/d2045.js, line 61: unreachable code a
 (firefox:9796): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
 [Child 9851] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
 [Child 9851] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1485308145752	geckodriver	INFO	Listening on 127.0.0.1:36247
+1485308146740	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zG3VrjJtVMYk
+1485308146742	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485308146745	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41303
+1485308149207	Marionette	INFO	Listening on port 41303
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript warning: https://duckduckgo.com/d2048.js, line 61: unreachable code after return statement

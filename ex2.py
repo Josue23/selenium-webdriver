@@ -14,8 +14,8 @@ class GoogleTestCase(unittest.TestCase):
         # self.addCleanup(self.browser.quit)
 
     def testPageTitle(self):
-        self.browser.get('http://www.google.com')
-        self.assertIn('Google', self.browser.title)
+        self.browser.get('https://duckduckgo.com/')
+        self.assertIn('DuckDuckGo', self.browser.title)
 
 if __name__ == '__main__':
     unittest.main(verbosity=2)
