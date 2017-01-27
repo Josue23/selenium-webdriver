@@ -43,6 +43,9 @@ import unittest
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
+# provides useful methods for interacting with HTML <select> element
+from selenium.webdriver.support.ui import Select
+
 # Inheriting from TestCase class is the way to tell unittest module
 # that this is a test case
 class PythonOrgSearch(unittest.TestCase):
@@ -64,6 +67,18 @@ class PythonOrgSearch(unittest.TestCase):
         # the input text element can be located by its
         # name attribute using find_element_by_name method
         elem = driver.find_element_by_name("q")
+
+        '''
+        given an element defined as:
+        <input type="text" name="passwd" id="passwd-id" />
+
+        you could find it using any of:
+        element = driver.find_element_by_id("passwd-id")
+        element = driver.find_element_by_name("passwd")
+        element = driver.find_element_by_xpath("//input[@id='passwd-id']")
+        '''
+
+        elem.clear()
         elem.send_keys("pycon")
         elem.send_keys(Keys.RETURN)
         assert "No results found." not in driver.page_source
