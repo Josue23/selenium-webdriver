@@ -37,6 +37,7 @@ assert "No results found." not in driver.page_source
 driver.close()
 '''
 
+# https://selenium-python.readthedocs.io/getting-started.html
 # o mesmo exemplo, usando unittest
 import unittest
 from selenium import webdriver
@@ -46,21 +47,30 @@ from selenium.webdriver.common.keys import Keys
 # that this is a test case
 class PythonOrgSearch(unittest.TestCase):
 
+    # Here you are creating the instance of Firefox WebDriver.
     def setUp(self):
         self.driver = webdriver.Firefox()
 
+    # This is the test case method.
     def test_search_in_python_org(self):
         driver = self.driver
+
+        # The driver.get method will navigate to a page given by the URL
         driver.get("http://www.python.org")
+
+        # This is an assertion to confirm that title has “Python” word in it:
         self.assertIn("Python", driver.title)
+
+        # the input text element can be located by its
+        # name attribute using find_element_by_name method
         elem = driver.find_element_by_name("q")
         elem.send_keys("pycon")
         elem.send_keys(Keys.RETURN)
         assert "No results found." not in driver.page_source
 
-
+    # The tearDown method will get called after every test method
     def tearDown(self):
-        self.driver.close()
+        self.driver.quit()
 
 if __name__ == "__main__":
     unittest.main()
