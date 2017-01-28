@@ -3502,3 +3502,1027 @@ ATTENTION: default value of option force_s3tc_enable overridden by environment.
 (firefox:20931): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
 
 (firefox:20931): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485569720829	geckodriver	INFO	Listening on 127.0.0.1:54157
+1485569720848	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6GWM2Yqadrw2
+1485569720849	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485569720852	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42117
+1485569723519	Marionette	INFO	Listening on port 42117
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:28574): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28574): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28574): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28574): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28574): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28574): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485570201251	geckodriver	INFO	Listening on 127.0.0.1:48793
+1485570202249	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QCby6GWgo9xG
+1485570202252	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485570202257	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41321
+1485570204722	Marionette	INFO	Listening on port 41321
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:28908): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28908): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28908): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28908): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28908): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28908): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485570339806	geckodriver	INFO	Listening on 127.0.0.1:40391
+1485570340811	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AlftMIfdXqZ5
+1485570340813	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485570340816	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40753
+1485570343250	Marionette	INFO	Listening on port 40753
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:29079): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29079): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29079): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29079): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29079): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29079): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485570641818	geckodriver	INFO	Listening on 127.0.0.1:39593
+1485570642825	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.r9xmQkDyKpKd
+1485570642829	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485570642833	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38965
+1485570645305	Marionette	INFO	Listening on port 38965
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:29349): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29349): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29349): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29349): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29349): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29349): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485606961376	geckodriver	INFO	Listening on 127.0.0.1:54383
+1485606962358	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7G4K4B7PPKRM
+1485606962360	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485606962385	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37161
+1485606966138	Marionette	INFO	Listening on port 37161
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:5970): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5970): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5970): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5970): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5970): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5970): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485607358357	geckodriver	INFO	Listening on 127.0.0.1:34297
+1485607358382	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.s33uzCGSnFy7
+1485607358385	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485607358390	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44587
+1485607361258	Marionette	INFO	Listening on port 44587
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:6394): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6394): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6394): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6394): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6394): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6394): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:6394): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6394): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485607715382	geckodriver	INFO	Listening on 127.0.0.1:40973
+1485607716386	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QqptC0Oev9p7
+1485607716390	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485607716393	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37523
+1485607719118	Marionette	INFO	Listening on port 37523
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:6688): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6688): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6688): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6688): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6688): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6688): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:6688): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485607753924	geckodriver	INFO	Listening on 127.0.0.1:40773
+1485607753961	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4NX9cBzBnXAu
+1485607753966	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485607753972	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35737
+1485607756968	Marionette	INFO	Listening on port 35737
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:6810): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6810): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6810): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6810): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6810): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6810): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:6810): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485607799965	geckodriver	INFO	Listening on 127.0.0.1:52481
+1485607799993	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.C2pkblZS3gxV
+1485607799995	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485607800000	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42751
+1485607803161	Marionette	INFO	Listening on port 42751
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:6995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:6995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485608116858	geckodriver	INFO	Listening on 127.0.0.1:58445
+1485608117861	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZpKfhiROwRDC
+1485608117881	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485608117884	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42025
+1485608120551	Marionette	INFO	Listening on port 42025
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:7233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:7233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil#, line 91: ReferenceError: zE is not defined
+1485608173219	geckodriver	INFO	Listening on 127.0.0.1:44809
+1485608174221	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6GlHnQdJLSIt
+1485608174225	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485608174231	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32987
+1485608177089	Marionette	INFO	Listening on port 32987
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:7372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:7372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485608429781	geckodriver	INFO	Listening on 127.0.0.1:53959
+1485608429800	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.urHcPW4sFqqE
+1485608429801	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485608429805	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34031
+1485608432722	Marionette	INFO	Listening on port 34031
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:7635): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7635): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7635): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7635): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7635): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7635): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:7635): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7635): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485609147920	geckodriver	INFO	Listening on 127.0.0.1:49371
+1485609147976	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LE1HdvfEsTkE
+1485609147978	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485609148000	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36653
+1485609151300	Marionette	INFO	Listening on port 36653
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1485609233584	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Child 8184] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8184] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1485609259175	geckodriver	INFO	Listening on 127.0.0.1:40861
+1485609259211	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.O0tLrE4ppCrr
+1485609259214	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485609259222	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39385
+1485609262200	Marionette	INFO	Listening on port 39385
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+1485609333957	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1485609544550	geckodriver	INFO	Listening on 127.0.0.1:43685
+1485609545550	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4zaDAHuyZZc1
+1485609545553	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485609545558	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39321
+1485609548436	Marionette	INFO	Listening on port 39321
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:8878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:8878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8878): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485609763011	geckodriver	INFO	Listening on 127.0.0.1:54033
+1485609763074	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NVUFMxKNy3Fm
+1485609763096	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485609763119	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39767
+1485609766336	Marionette	INFO	Listening on port 39767
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[Child 9235] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x500001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=40.0395) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00EA,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1485609874340	geckodriver	INFO	Listening on 127.0.0.1:45547
+1485609875336	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.opTgcT6YQZpV
+1485609875338	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485609875342	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37011
+1485609878322	Marionette	INFO	Listening on port 37011
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9383] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+1485610004224	geckodriver	INFO	Listening on 127.0.0.1:46173
+1485610004234	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uJ6wVqDWHGNY
+1485610004236	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485610004255	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37993
+1485610007838	Marionette	INFO	Listening on port 37993
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:9497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:9497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485610492774	geckodriver	INFO	Listening on 127.0.0.1:46929
+1485610493766	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LU3uvQMKaR5s
+1485610493797	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485610493834	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45103
+1485610497508	Marionette	INFO	Listening on port 45103
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:10233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:10233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10233): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485611049127	geckodriver	INFO	Listening on 127.0.0.1:52535
+1485611049153	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gp4R02Ib4TX5
+1485611049175	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485611049198	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36483
+1485611052908	Marionette	INFO	Listening on port 36483
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:10655): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10655): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10655): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10655): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10655): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10655): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:10655): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10655): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485611450263	geckodriver	INFO	Listening on 127.0.0.1:48381
+1485611450298	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wBmYsFYaExaT
+1485611450299	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485611450321	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41401
+1485611453674	Marionette	INFO	Listening on port 41401
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:10950): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10950): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10950): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10950): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10950): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10950): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:10950): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10950): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485611742747	geckodriver	INFO	Listening on 127.0.0.1:47743
+1485611743752	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4GgcOJC6xU0T
+1485611743757	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485611743761	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37055
+1485611746428	Marionette	INFO	Listening on port 37055
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:11169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:11169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485612186917	geckodriver	INFO	Listening on 127.0.0.1:33729
+1485612187917	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3vvhpHYI6MRp
+1485612187919	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485612187922	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41667
+1485612190734	Marionette	INFO	Listening on port 41667
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:11452): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11452): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11452): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11452): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11452): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11452): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:11452): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11452): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485612304221	geckodriver	INFO	Listening on 127.0.0.1:40705
+1485612305217	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.w9vxRvOkpqAi
+1485612305219	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485612305237	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45161
+1485612309081	Marionette	INFO	Listening on port 45161
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:11617): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11617): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11617): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11617): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11617): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11617): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:11617): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11617): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485612378082	geckodriver	INFO	Listening on 127.0.0.1:60623
+1485612379103	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RMfM4RguCiPx
+1485612379104	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485612379107	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37229
+1485612381806	Marionette	INFO	Listening on port 37229
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:11758): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11758): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11758): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11758): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11758): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11758): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:11758): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485612451202	geckodriver	INFO	Listening on 127.0.0.1:38403
+1485612451230	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OVS8aFsPsYuO
+1485612451232	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485612451251	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40961
+1485612454281	Marionette	INFO	Listening on port 40961
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:11897): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11897): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11897): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11897): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11897): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11897): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:11897): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485612627509	geckodriver	INFO	Listening on 127.0.0.1:42973
+1485612628504	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xd2jfdOFe1SE
+1485612628506	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485612628510	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39997
+1485612631352	Marionette	INFO	Listening on port 39997
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:12183): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12183): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12183): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12183): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12183): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12183): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:12183): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12183): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485613036548	geckodriver	INFO	Listening on 127.0.0.1:53035
+1485613037556	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cOfat4J4SuWp
+1485613037559	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485613037565	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42867
+1485613040567	Marionette	INFO	Listening on port 42867
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:12461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:12461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485613806838	geckodriver	INFO	Listening on 127.0.0.1:43991
+1485613807809	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wqnakqVaU9Yz
+1485613807813	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485613807835	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37559
+1485613811180	Marionette	INFO	Listening on port 37559
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:12969): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12969): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12969): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12969): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12969): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12969): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:12969): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485614008724	geckodriver	INFO	Listening on 127.0.0.1:49725
+1485614008764	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.e5bFpz9Tftml
+1485614008765	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485614008787	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36113
+1485614012202	Marionette	INFO	Listening on port 36113
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:13163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:13163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485614186778	geckodriver	INFO	Listening on 127.0.0.1:53745
+1485614186813	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DTD3iRpCQDV7
+1485614186814	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485614186818	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41231
+1485614189998	Marionette	INFO	Listening on port 41231
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:13326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:13326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485614246711	geckodriver	INFO	Listening on 127.0.0.1:47359
+1485614247708	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VGRdybksttwG
+1485614247710	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485614247713	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33787
+1485614250926	Marionette	INFO	Listening on port 33787
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:13461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:13461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13461): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485615357393	geckodriver	INFO	Listening on 127.0.0.1:48503
+1485615358391	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.eIyvmyV0KGbc
+1485615358393	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485615358399	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45841
+1485615361011	Marionette	INFO	Listening on port 45841
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:14105): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14105): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14105): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14105): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14105): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14105): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:14105): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14105): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485615523477	geckodriver	INFO	Listening on 127.0.0.1:47403
+1485615523493	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.79QDreliOnFh
+1485615523495	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485615523498	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43899
+1485615526186	Marionette	INFO	Listening on port 43899
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:14272): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14272): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14272): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14272): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14272): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14272): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:14272): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485615674130	geckodriver	INFO	Listening on 127.0.0.1:51471
+1485615675134	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zRKpdYxsglXD
+1485615675138	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485615675143	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36683
+1485615677700	Marionette	INFO	Listening on port 36683
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:14482): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14482): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14482): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14482): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14482): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14482): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:14482): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485615767383	geckodriver	INFO	Listening on 127.0.0.1:39349
+1485615768391	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vYjMBlCrPkzt
+1485615768394	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485615768397	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38719
+1485615770876	Marionette	INFO	Listening on port 38719
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:14661): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14661): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14661): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14661): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14661): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14661): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485616312073	geckodriver	INFO	Listening on 127.0.0.1:49441
+1485616312088	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GcRDe48DMaMP
+1485616312090	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485616312093	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41085
+1485616314936	Marionette	INFO	Listening on port 41085
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:15058): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15058): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15058): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15058): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15058): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15058): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:15058): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485616361150	geckodriver	INFO	Listening on 127.0.0.1:37763
+1485616362156	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5wLnt7GVbomc
+1485616362159	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485616362162	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37849
+1485616364938	Marionette	INFO	Listening on port 37849
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:15182): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15182): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15182): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15182): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15182): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15182): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:15182): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed

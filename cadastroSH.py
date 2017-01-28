@@ -54,13 +54,15 @@ celular.send_keys('11 11111 1111')
 celular.submit()
 
 # preenche o campo Confirmar email
-email = driver.find_element_by_id("txt_email")
-email.send_keys("teste@teste.com")
+# email = driver.find_element_by_id("txt_email")
+# email.send_keys("teste@teste.com")
+email = driver.find_element_by_id('txt_email').send_keys("teste@teste.com")
 email.submit()
 
 # preenche o campo Email
-emailConfirm = driver.find_element_by_id("confirm_txt_email")
-emailConfirm.send_keys("teste@teste.com")
+# emailConfirm = driver.find_element_by_id("confirm_txt_email")
+# emailConfirm.send_keys("teste@teste.com")
+emailConfirm = driver.find_element_by_id('confirm_txt_email').send_keys("teste@teste.com")
 emailConfirm.submit()
 
 # preenche o campo Usuário
