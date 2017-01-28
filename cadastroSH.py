@@ -18,31 +18,60 @@ from selenium.webdriver.support.ui import Select
 driver = webdriver.Firefox()
 
 # The driver.get method will navigate to a page given by the URL
-driver.get("http://semhora.com.br/contato")
+    # driver.get("http://semhora.com.br/")
+driver.get("http://semhora.com.br/cadastro")
+
+# Apart from the public methods given above, there are two private methods which
+# might be useful with locators in page objects.
+from selenium.webdriver.common.by import By
+# Sexo = driver.find_element(By.XPATH, '//button[text()="Masculino"]')
+# Sexo.click()
 
 # The next line is an assertion to confirm that title has “Python” word in it:
 assert "app" in driver.title
 
 
-# preenche o campo Seu nome
-name = driver.find_element_by_id("name")
-name.send_keys('Maria da Silva')
+
+# preenche o campo Nome Completo
+name = driver.find_element_by_id("txt_nome")
+name = driver.find_element_by_name('txt_nome')
+name.send_keys('nome sobrenome')
 name.submit()
 
-# preenche o campo Seu email
-name = driver.find_element_by_id("email")
-name.send_keys('test@test.com')
-name.submit()
 
-# preenche o campo Seu Seu telefone
-phone = driver.find_element_by_id("phone")
-phone.send_keys('11 97654 5682')
+# preenche o campo Data de nascimento
+phone = driver.find_element_by_id("txt_nascimento")
+phone.send_keys('11111111')
 phone.submit()
 
-# preenche o campo Qual evento?
-evento = driver.find_element_by_id("event")
-evento.send_keys('Event')
-evento.submit()
+genero = driver.find_element_by_id("options_genero")
+genero.click()
+
+
+# preenche o campo Confirmar Celular
+celular = driver.find_element_by_id("txt_celular")
+celular.send_keys('11 11111 1111')
+celular.submit()
+
+# preenche o campo Confirmar email
+email = driver.find_element_by_id("txt_email")
+email.send_keys("teste@teste.com")
+email.submit()
+
+# preenche o campo Email
+emailConfirm = driver.find_element_by_id("confirm_txt_email")
+emailConfirm.send_keys("teste@teste.com")
+emailConfirm.submit()
+
+# preenche o campo Usuário
+user = driver.find_element_by_id("txt_usuario")
+user.send_keys('jecisumer1@zain.site')
+user.submit()
+
+
+
+
+
 
 # imprime todos os valores do <select> Assunto
 element = driver.find_element_by_id("subject")
