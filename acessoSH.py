@@ -56,9 +56,12 @@ name.submit()
 salvarInfos = WebDriverWait(driver, 60).until(EC.presence_of_element_located((By.ID, "btnSubmit")))
 salvarInfos.submit()
 
+# http://www.seleniumhq.org/docs/04_webdriver_advanced.jsp
 # estou  http://semhora.com.br/perfil
 # clica no logo do SH no topo à esquerda que leva para a home do SH
-salvarEndereco = salvarInfos = WebDriverWait(driver, 60).until(EC.presence_of_element_located((By.ID, "logoHeader")))
+salvarEndereco = salvarInfos = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "logoHeader")))
+salvarEndereco = WebDriverWait(driver, 10)
+salvarEndereco = salvarEndereco.until(EC.element_to_be_clickable((By.ID,'logoHeader')))
 # salvarEndereco = driver.find_element_by_id("logoHeader")
 salvarEndereco.click()
 

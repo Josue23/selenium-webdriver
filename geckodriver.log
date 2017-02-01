@@ -4526,3 +4526,429 @@ ATTENTION: default value of option force_s3tc_enable overridden by environment.
 JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
 
 (firefox:15182): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485617219110	geckodriver	INFO	Listening on 127.0.0.1:51123
+1485617220118	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.o46OtFrdGEza
+1485617220139	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485617220142	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41019
+1485617222750	Marionette	INFO	Listening on port 41019
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:15733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/perfil, line 91: ReferenceError: zE is not defined
+
+(firefox:15733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15733): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485617516923	geckodriver	INFO	Listening on 127.0.0.1:38393
+1485617516977	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TNveVaxLOk0e
+1485617516983	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485617517001	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45613
+1485617520448	Marionette	INFO	Listening on port 45613
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:16007): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16007): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16007): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16007): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16007): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16007): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:16007): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485617597480	geckodriver	INFO	Listening on 127.0.0.1:34119
+1485617597501	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4WxMrixFM6vt
+1485617597503	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485617597506	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37973
+1485617600728	Marionette	INFO	Listening on port 37973
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:16163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485639625433	geckodriver	INFO	Listening on 127.0.0.1:49177
+1485639625513	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oU7jvryMK3Zd
+1485639625514	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485639625536	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39791
+1485639628896	Marionette	INFO	Listening on port 39791
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: http://semhora.com.br/cadastro, line 91: ReferenceError: zE is not defined
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:27951): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27951): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27951): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27951): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27951): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27951): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://semhora.com.br/, line 90: ReferenceError: zE is not defined
+
+(firefox:27951): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485970870536	geckodriver	INFO	Listening on 127.0.0.1:58837
+1485970871534	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9Md9FT6m4wbs
+1485970871535	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485970871558	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37911
+1485970875182	Marionette	INFO	Listening on port 37911
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485970939075	geckodriver	INFO	Listening on 127.0.0.1:39485
+1485970939096	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9f3x6H5WYdmD
+1485970939097	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485970939117	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32989
+1485970941904	Marionette	INFO	Listening on port 32989
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485971012850	geckodriver	INFO	Listening on 127.0.0.1:58189
+1485971013858	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NImWJaRVsiHA
+1485971013862	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485971013865	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37093
+1485971016352	Marionette	INFO	Listening on port 37093
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485971103564	geckodriver	INFO	Listening on 127.0.0.1:37847
+1485971104566	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wiEGuEL19eDw
+1485971104569	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485971104573	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33319
+1485971107084	Marionette	INFO	Listening on port 33319
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485971631937	geckodriver	INFO	Listening on 127.0.0.1:37693
+1485971632943	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gYQvAf2SU4Zb
+1485971632947	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485971632952	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41003
+1485971635342	Marionette	INFO	Listening on port 41003
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485971756658	geckodriver	INFO	Listening on 127.0.0.1:34309
+1485971757665	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OnSTsB8Vt14N
+1485971757667	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485971757671	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45325
+1485971760192	Marionette	INFO	Listening on port 45325
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485972076496	geckodriver	INFO	Listening on 127.0.0.1:52281
+1485972077502	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TjMUvkTFoLWm
+1485972077522	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485972077524	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46475
+1485972079947	Marionette	INFO	Listening on port 46475
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485972144822	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1485972165454	geckodriver	INFO	Listening on 127.0.0.1:60079
+1485972166454	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.atQoQ71SK7am
+1485972166458	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485972166463	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38461
+1485972169138	Marionette	INFO	Listening on port 38461
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485972249165	geckodriver	INFO	Listening on 127.0.0.1:37011
+1485972249206	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.j9eoPfXdj1uY
+1485972249207	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485972249210	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37235
+1485972251750	Marionette	INFO	Listening on port 37235
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485972394400	geckodriver	INFO	Listening on 127.0.0.1:47429
+1485972395405	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.qbLwntaVE6tP
+1485972395408	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485972395412	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36021
+1485972397842	Marionette	INFO	Listening on port 36021
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485972439799	geckodriver	INFO	Listening on 127.0.0.1:43161
+1485972440806	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3pSsgSIbLSwy
+1485972440810	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485972440815	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46875
+1485972443221	Marionette	INFO	Listening on port 46875
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485972575947	geckodriver	INFO	Listening on 127.0.0.1:43293
+1485972576948	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AedE2tBaqFBn
+1485972576951	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485972576956	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43555
+1485972579687	Marionette	INFO	Listening on port 43555
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485972986338	geckodriver	INFO	Listening on 127.0.0.1:38743
+1485972987339	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MPY15NKuzWu6
+1485972987342	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485972987349	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34029
+1485972989812	Marionette	INFO	Listening on port 34029
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485973102844	geckodriver	INFO	Listening on 127.0.0.1:59767
+1485973102864	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yxRV9HAuHRH3
+1485973102887	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485973102890	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37399
+1485973105617	Marionette	INFO	Listening on port 37399
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485973177466	geckodriver	INFO	Listening on 127.0.0.1:49449
+1485973178473	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VQEef0ZrSfth
+1485973178477	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485973178482	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35779
+1485973180864	Marionette	INFO	Listening on port 35779
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485973649153	geckodriver	INFO	Listening on 127.0.0.1:60619
+1485973650153	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JqgwgovnbEmC
+1485973650173	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485973650176	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41781
+1485973653126	Marionette	INFO	Listening on port 41781
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485973718119	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1485973875837	geckodriver	INFO	Listening on 127.0.0.1:34295
+1485973875894	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VSC1ScqpZxJh
+1485973875901	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485973875919	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45131
+1485973879091	Marionette	INFO	Listening on port 45131
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485974004150	geckodriver	INFO	Listening on 127.0.0.1:57529
+1485974004196	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UHfo4nC9n59E
+1485974004198	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485974004222	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40397
+1485974007022	Marionette	INFO	Listening on port 40397
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485976506277	geckodriver	INFO	Listening on 127.0.0.1:41229
+1485976507285	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.r5R7wc4cX0AN
+1485976507289	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485976507326	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43493
+1485976509994	Marionette	INFO	Listening on port 43493
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485976706492	geckodriver	INFO	Listening on 127.0.0.1:39151
+1485976707498	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cNqAv9QOmohV
+1485976707500	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485976707504	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38683
+1485976709902	Marionette	INFO	Listening on port 38683
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485976856909	geckodriver	INFO	Listening on 127.0.0.1:59759
+1485976857908	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rgO1wN7OBHCB
+1485976857911	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485976857915	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44663
+1485976860352	Marionette	INFO	Listening on port 44663
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485976908829	geckodriver	INFO	Listening on 127.0.0.1:56791
+1485976908870	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yYrxnjzhC9Eq
+1485976908871	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485976908874	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36599
+1485976911349	Marionette	INFO	Listening on port 36599
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485977166789	geckodriver	INFO	Listening on 127.0.0.1:58703
+1485977167795	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yhobDE822kL7
+1485977167801	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485977167805	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43869
+1485977170224	Marionette	INFO	Listening on port 43869
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485977250605	geckodriver	INFO	Listening on 127.0.0.1:43147
+1485977251612	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SlW4DE6k8ssw
+1485977251615	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485977251631	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39715
+1485977253999	Marionette	INFO	Listening on port 39715
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485977363197	geckodriver	INFO	Listening on 127.0.0.1:56451
+1485977364204	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.V9vNLXjM1VMW
+1485977364207	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485977364210	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37999
+1485977366658	Marionette	INFO	Listening on port 37999
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
+1485978683091	geckodriver	INFO	Listening on 127.0.0.1:49081
+1485978684098	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0IwJG8oAiUkm
+1485978684102	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485978684106	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36687
+1485978686861	Marionette	INFO	Listening on port 36687
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+JavaScript error: https://www.semhora.com.br/, line 90: ReferenceError: zE is not defined
