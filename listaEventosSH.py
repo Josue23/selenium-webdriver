@@ -7,7 +7,7 @@ driver.get(baseurl)
 # eventos = driver.find_element_by_css_selector(".eventbox")
 # print(eventos)
 
-for row in driver.find_elements_by_id("eventList"):
+all_options = driver.find_element_by_class_name("relacionadosContent")
     cell = row.find_elements_by_css_selector("eventBox")
     # print(type(cell))
     print(cell)
